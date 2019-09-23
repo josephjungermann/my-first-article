@@ -14,10 +14,10 @@ body {
     /*font-weight: 400;*/
 }
 
-.dek {
+.blockquote {
     font-family: "Open Sans";
     font-weight: 400;
-    font-size: 18px;
+    font-size: 24px;
     line-height: 24px;
     color: #333;
 }
