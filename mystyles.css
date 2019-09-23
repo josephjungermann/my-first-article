@@ -46,6 +46,12 @@ body {
     width: 100%;
 }
 
+.img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+}
+
 .photo-caption {
     margin: 0;
     font-family: "Open Sans";
